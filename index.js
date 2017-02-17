@@ -5,6 +5,8 @@ app.get('/', function (req, res) {
   res.send('Hello World!')
 })
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
+var port_number = server.listen(process.env.PORT || 3000);
+
+app.listen(port_number, function () {
+  console.log('Example app listening on port ' + port_number + '!')
 })
