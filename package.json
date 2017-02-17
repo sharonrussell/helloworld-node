@@ -2,9 +2,8 @@
   "name": "helloworld",
   "version": "1.0.0",
   "description": "Says hello",
-  "main": "app/index.js",
   "scripts": {
-    "start": "node app/index.js"
+    "start": "node index.js"
   },
   "author": "Sharon Russell",
   "license": "ISC"
