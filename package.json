@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Says hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sharon Russell",
+  "license": "ISC"
+}
