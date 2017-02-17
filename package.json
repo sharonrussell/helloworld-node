@@ -4,7 +4,7 @@
   "description": "Says hello",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Sharon Russell",
   "license": "ISC"
